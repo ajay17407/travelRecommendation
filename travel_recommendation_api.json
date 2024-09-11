@@ -1,26 +1,23 @@
 {
     "beaches": [
         {
-            "name": "Malibu Beach",
-            "imageUrl": "images/beachA.jpg",
-            "description": "A popular beach in California known for its beautiful sunsets."
+            "name": "Sunny Beach",
+            "description": "A beautiful sunny beach."
         }
     ],
     "temples": [
         {
-            "name": "Angkor Wat",
-            "imageUrl": "images/templeA.jpg",
-            "description": "A massive temple complex in Cambodia."
+            "name": "Ancient Temple",
+            "description": "A historical ancient temple."
         }
     ],
     "countries": [
         {
-            "name": "Thailand",
+            "name": "Country A",
             "cities": [
                 {
-                    "name": "Bangkok",
-                    "imageUrl": "images/cityA.jpg",
-                    "description": "The bustling capital city of Thailand."
+                    "name": "City A1",
+                    "description": "A vibrant city in Country A."
                 }
             ]
         }
